@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KushalvDesai
 - 👀 I’m interested in ... general programming, working of AI and data collection and processsing by AI
-- 🌱 I’m currently learning ... C programming language and python, 
+- 🌱 I’m currently learning ... C/c++ and python, 
 <!---
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
