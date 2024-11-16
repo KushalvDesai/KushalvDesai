@@ -10,7 +10,8 @@
 - JAVA
 - Python3
 - Unity Game Development
-📈 Always striving to learn, grow, and innovate in the world of technology!<br>
+
+## 📈 Always striving to learn, grow, and innovate in the world of technology!<br>
 
 
 ## 🌐 Socials:
