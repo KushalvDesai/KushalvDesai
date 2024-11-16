@@ -13,7 +13,7 @@
 - Python3
 - Unity Game Development
 
-## 📈 'No idea's original, there's nothing new under the sun. It's never what you do, but how it's done.'
+## 📈 "The most genius thing we did was we didn’t give up."    		   ~Kanye West
 
 
 ## 🌐 Socials:
