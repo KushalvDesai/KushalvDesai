@@ -5,12 +5,9 @@
 <br>
 💻 Tech Stack:<br>
 <br>
-* HTML<br>
-* CSS<br>
-* PHP<br>
-* SQL<br>
-* JAVA<br>
-* PYTHON3<br>
+* HTML  * SQL<br>
+* CSS   * JAVA<br>
+* PHP   * Python3<br>
 📈 Always striving to learn, grow, and innovate in the world of technology!<br>
 
 
