@@ -1,14 +1,17 @@
 # 💫 About Me:
-👨‍💻 Web Developer | Passionate about creating dynamic and user-friendly websites.
-🎓 Currently learning Machine Learning, Java, PHP, Database Management, and Unity Game Development to broaden my skillset.
-🎮 Hobbies: Gaming and exploring music to keep the creativity flowing.
-
-💻 Tech Stack:
-
-Frontend: HTML, CSS
-Backend: PHP, Java, Python 3
-Database: SQL
-📈 Always striving to learn, grow, and innovate in the world of technology!
+👨‍💻 Web Developer | Passionate about creating dynamic and user-friendly websites. <br>
+🎓 Currently learning Machine Learning, Java, PHP, Database Management, and Unity Game Development to broaden my skillset.<br>
+🎮 Hobbies: Gaming and exploring music to keep the creativity flowing.<br>
+<br>
+💻 Tech Stack:<br>
+<br>
+HTML<br>
+CSS<br>
+PHP<br>
+SQL<br>
+JAVA<br>
+PYTHON3<br>
+📈 Always striving to learn, grow, and innovate in the world of technology!<br>
 
 
 ## 🌐 Socials:
