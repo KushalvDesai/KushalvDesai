@@ -13,7 +13,7 @@
 - Python3
 - Unity Game Development
 
-## 📈 
+## 📈 ```No idea's original, there's nothing new under the sun. It's never what you do, but how it's done.```
 
 
 ## 🌐 Socials:
