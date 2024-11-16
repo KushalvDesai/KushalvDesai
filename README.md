@@ -3,11 +3,15 @@
 🎓 Currently learning Machine Learning, Java, PHP, Database Management, and Unity Game Development to broaden my skillset.<br>
 🎮 Hobbies: Gaming and exploring music to keep the creativity flowing.<br>
 <br>
-💻 Tech Stack:<br>
-<br>
-* HTML  * SQL<br>
-* CSS   * JAVA<br>
-* PHP   * Python3<br>
+## 💡 Currently Learning:
+- Java
+- Django
+- NodeJS
+- NextJS
+- ThreeJS
+- React
+- PHP
+- SQL DBMS
 📈 Always striving to learn, grow, and innovate in the world of technology!<br>
 
 
