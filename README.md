@@ -1,17 +1,15 @@
 # 💫 About Me:
 👨‍💻 Web Developer | Passionate about creating dynamic and user-friendly websites. <br>
-🎓 Currently learning Machine Learning, Java, PHP, Database Management, and Unity Game Development to broaden my skillset.<br>
 🎮 Hobbies: Gaming and exploring music to keep the creativity flowing.<br>
 <br>
 ## 💡 Currently Learning:
-- Java
-- Django
-- NodeJS
-- NextJS
-- ThreeJS
-- React
+- Html
+- CSS
 - PHP
 - SQL DBMS
+- JAVA
+- Python3
+- Unity Game Development
 📈 Always striving to learn, grow, and innovate in the world of technology!<br>
 
 
