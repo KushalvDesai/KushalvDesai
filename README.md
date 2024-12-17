@@ -4,7 +4,7 @@
 👨‍💻 Web Developer | Passionate about creating dynamic and user-friendly websites. <br> <br>
 🎮 Hobbies: Gaming and exploring music to keep the creativity flowing.<br>
 <br>
-## 💡 Currently Learning:
+## 💡 Currently Working on:
 - Html
 - CSS
 - PHP
