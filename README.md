@@ -11,7 +11,8 @@
 - SQL DBMS
 - JAVA
 - Python3
-- Unity Game Development
+- Solidity
+- Blockchain Smart Contracts
 
 ## 📈 "The most genius thing we did was we didn’t give up."    		   ~Kanye West
 
