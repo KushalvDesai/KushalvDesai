@@ -1,5 +1,5 @@
 ## 💫 About Me:
-# Hi I'm Kushal Desai, a comp sci student amateur developer working on small projects here and there
+# Hi I'm Kushal Desai, a comp sci student and amateur developer working on small projects here and there
 
 👨‍💻 Web Developer | Passionate about creating dynamic and user-friendly websites. <br> <br>
 🎮 Hobbies: Gaming and exploring music to keep the creativity flowing.<br>
