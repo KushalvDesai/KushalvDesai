@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 🎧 About Me:
 ### Hi I'm Kushal Desai, a comp sci student and amateur developer working on projects to learn new tech or to change the world (scratch an itch by spending 2 days to automate a 2 minute task)
 <br>
 👨‍💻 Web Developer | Passionate about creating dynamic and user-friendly websites. <br>
