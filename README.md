@@ -21,7 +21,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=KushalvDesai&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
 <br>
 ### ✍️ Impactful Quote
-   "The most genius thing we did was we didn’t give up."    		   ~Kanye West
+### "The most genius thing we did was we didn’t give up."    		   ~Kanye West
 <br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KushalvDesai&limit=5&theme=darcula&combine_all_yearly_contributions=true)
