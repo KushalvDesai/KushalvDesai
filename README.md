@@ -23,7 +23,7 @@
 <br>
 
 ## ✍️ Impactful Quote
-### "The most genius thing we did was we didn’t give up."    		   ~Kanye West
+### "The most genius thing we did was we didn’t give up."    		     ~Kanye West
 
 <br>
 
